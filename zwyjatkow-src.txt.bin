@@ -686,7 +686,22 @@ $::proofers{'114'}[3] = 'Voy13k';
 $::proofers{'114'}[4] = 'RCEberwein';
 $::proofers{'114'}[5] = 'cmspence';
 
-$::operationshash{'Open /data/dp/pp/zwyjatkow_wpomrokachwiary/zwyjatkow-src.txt'}='2013-12-08 22:03';
+$::operationshash{'Found no more orphaned /[Pp] [Pp]/'}='2013-12-09 19:04';
+$::operationshash{'Found no more orphaned /$ $/'}='2013-12-09 19:04';
+$::operationshash{'Found no more orphaned ‚Äû ‚Äú'}='2013-12-09 19:05';
+$::operationshash{'Found no more orphaned /* */'}='2013-12-09 19:04';
+$::operationshash{'Found no more /#..#/ blocks'}='2013-12-09 18:59';
+$::operationshash{'Spellcheck'}='2013-12-09 19:20';
+$::operationshash{'Found no more orphaned <>'}='2013-12-09 19:04';
+$::operationshash{'Found no more orphaned ()'}='2013-12-09 19:01';
+$::operationshash{'Found no more orphaned /# #/'}='2013-12-09 19:04';
+$::operationshash{'Open /data/dp/pp/zwyjatkow_wpomrokachwiary/zwyjatkow-src.txt'}='2013-12-09 20:18';
+$::operationshash{'Found no more orphaned []'}='2013-12-09 19:03';
+$::operationshash{'Found no more orphaned ´ ª'}='2013-12-09 19:04';
+$::operationshash{'Found no more orphaned {}'}='2013-12-09 19:03';
+$::operationshash{'Found no more orphaned ª ´'}='2013-12-09 19:04';
+$::operationshash{'Found no more orphaned ‚Äú ‚Äù'}='2013-12-09 19:05';
+$::operationshash{'Found no more /*..*/ blocks'}='2013-12-09 18:58';
 
 $::bookmarks[0] = '1.0';
 
@@ -696,7 +711,7 @@ $::spellindexbkmrk = '';
 
 $::projectid = '';
 
-$::booklang = 'en';
+$::booklang = 'pl';
 
 $scannoslistpath = 'wordlist';
 

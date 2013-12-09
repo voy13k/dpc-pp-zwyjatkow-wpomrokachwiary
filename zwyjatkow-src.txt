@@ -29,7 +29,7 @@ Z WYJĄTKÓW.
 
 W pomrokach wiary.
 
-[Illustration][**will it be included?/P2: why not? :-)]
+[Illustration]
 
 NAPISAŁ
 
@@ -63,7 +63,7 @@ Otom jest stary włóczęga, sterany pielgrzym
 bezdomny. Wiosenne świty młodości mojej pogasły
 dawno; dziś sklepi się nad osędziałą, zwichrzoną
 wiatrami drożnymi głową szary zachód odarty
-zpokrwawia[**z pokrwawia (?)/P2: not a mistake] słońca, co przerażone starczym chłodem
+zpokrwawia słońca, co przerażone starczym chłodem
 skryło swe ognie gdzieś za zwałami burych
 chmurzysk. Czasem tylko wyśliźnie się przez szczeliny
 duszy namiętny płomień przeszłości i twarz
@@ -76,7 +76,7 @@ jarach przepastnych i debrach strzępy mych szat
 zostawiając po krzach przydrożnych. Wiatr porywa
 je i roznosi spuściznę po nędzarzu hen, hen po
 świecie. Przedemną płożą się w kolejnej przemianie
-niwy ludzkie, bory i lasy, pstrzą chaty wiejskie[**should be ',']
+niwy ludzkie, bory i lasy, pstrzą chaty wiejskie,
 stożą wieżyce miast; lśni się, migoce, szaleje i płacze
 cały ten wielki, boży świat.... A ja wciąż
 w drodze -- jak pies bezpański odtrącony od domowego
@@ -84,7 +84,7 @@ ogniska wałęsam się po rozdrożach....
 
 Krzyżowe drogi! rozstaje!.... wicher się tułacz
 po was kołysze, wygrywając mi jesienną piosenkę
-życia. Czasem mnie spije ten luty śpiew.[** comma?, see next page]
+życia. Czasem mnie spije ten luty śpiew,
 -----File: 008.png---\yakuzza\czupirek\mcbax\jerzyrek\cmspence\------------
 a wtedy idę przed siebie w spiżowej zadumie nic
 nie widząc, a on mi zimnym tchem łzy ociera, co
@@ -94,14 +94,14 @@ Stary, dziki włóczęga....
 
 Podłe życie miałem -- podłe i nędzne! Ludzie
 mnie znienawidzili -- jam im przekleństwo piastował.
-I tak nienawiśc[**typo for nienawiść] wielka i ból wezbrały mi
+I tak nienawiść wielka i ból wezbrały mi
 w sercu, że straszny się stałem szczęściu ludzkiemu,
 sam tułacz nieszczęsny.
 
 -- Dzikie, straszne masz oczy -- mówili mi
-ludzie od dziecka,[**, -> .] Tak straszne mi oczy dała matka-natura.
+ludzie od dziecka, tak straszne mi oczy dała matka-natura.
 Bo oczy te miały przeklętą siłę: obudzały
-przyczajoną w zakątkach duszy bliźniego świadomość[**unclear w]
+przyczajoną w zakątkach duszy bliźniego świadomość
 rychłego nieszczęścia; oczy moje rozpętywały
 uśpione w pieleszach duszy przeczucie. Jak hyena
 wietrzy po cmentarnych ugorach padło i trupy, tak
@@ -114,12 +114,12 @@ Była to jakby wielka choroba: nie miałem chwili
 wytchnienia, męczyłem siebie i owych nieszczęsnych,
 wokoło których krążyłem jak sęp krwiożerczy, hypnotyzując
 swe ofiary pożądliwem okiem; zataczałem
-kręgi coraz bliższe i bliższe, pasąc oczy[**dot in scan, probably speck] ich
+kręgi coraz bliższe i bliższe, pasąc oczy ich
 bezdennym strachem; byłem nieodłącznym towarzyszem
 w nocy i we dnie, nawet we śnie panowałem
 nad nimi wszechwładnie w upiornych marzeniach...
-Aż się dokonało... przeczucie[**unclear i] przyoblekło w rzeczywistość,
-aż padł grom..[**na skanie jakby więcej kropek - puste miejsce] Wtedy odchodziłem....
+Aż się dokonało... przeczucie przyoblekło w rzeczywistość,
+aż padł grom ... Wtedy odchodziłem....
 innych uświadamiać. Dlategom jest przeklęty
 od ludzi i ziemi i znamię Kaina czoło pali.
 Sam zatraceniec -- innym zatratę i nieszczęście
@@ -135,19 +135,19 @@ Lepiej ty mnie wodo jasna zatop, bo wiedz,
 Lepiej ty mnie wichrze polny ponieś w przepaść,
 bo wiedz, że wyrodka chłodzisz!
 
-Piosnkę nucisz, piosnkę[**typo for piosnkę], starą piosnkę -- dumę:
+Piosnkę nucisz, piosnkę, starą piosnkę -- dumę:
 Błąka się wicher po polu -- hej! tumany stepowe,
 wichuro zaciekła!.. w drogę, w przestwór,
 w dal!....
 
-<tb>[**dwa rzędy kropek]
+<tb>
 
 Był dżdżysty wieczór jesienny. Niebo nasunęło
 stalową przyłbicę chmur, tylko od czasu do
-czasu wyzierając[**unclear r] sinem, osowiałem okiem z pod
+czasu wyzierając sinem, osowiałem okiem z pod
 odwiniętych wiatrem powiek. Panował obojętny ton,
 tak przygnębiająco nijaki i jednostajny jak szara,
-rozziewana nuda. Drobny deszczyk zacinał bezustannie:[** ;]
+rozziewana nuda. Drobny deszczyk zacinał bezustannie;
 po badylach i sztywnych prętach rzęził
 wiatr, wpadał w pożółkłą już pierzeję topól wzdłuż
 gościńca, zawodząc boleśnie. Z przeciągłym sykiem
@@ -161,11 +161,11 @@ manekina i poszedł w taniec: zakręcił, zawrócił
 warczącego młyńca i stanął.... Wiatr ześliznął się
 lekko po skrzydłach.... wypadł z czarciego młyna,
 pocwałował szczerzącem drapieżną szczeć rżyskiem
-i zapadł w jarze:..[**maybe typo for ...] przycichło ...
+i zapadł w jarze:.. przycichło ...
 
 Zmokły, przeziębły szedłem dalej. Z lewej
 krzyż omszały się kłonił; na krzyżu kruk. -- Zakrakał,
-zakrakał i odleciał.... Minąłem krzyż.[**missing .] Na
+zakrakał i odleciał.... Minąłem krzyż. Na
 -----File: 010.png---\yakuzza\jerzyrek\mcbax\jerzyrek\cmspence\------------
 przełaj przez pola wlókł się wychudły pies; zapadłych
 boków zwierzęcia omal że nie przebijały
@@ -195,7 +195,7 @@ pieścił drapieżny wdzięk tarniny i ostów.
 
 Poprosiłem ludzi grzejących się o miejsce przy
 ogniu. Byli obdarci nie gorzej odemnie i wyglądali
-podejrzanie. Zaczepieni spojrzeli na mnie ciekawie[**unclear i]
+podejrzanie. Zaczepieni spojrzeli na mnie ciekawie
 z niedobrym błyskiem w zuchwałych oczach, ale
 spostrzegłszy nędzarza, uśmiechnęli się drwiąco
 i z lekceważeniem. Starszy mężczyzna o wyrazie
@@ -203,7 +203,7 @@ ponurym wycedził z grymasem:
 
 -- Niema miejsca. Poszedł won do biesa!
 
-Zawróciłem na drogę. Przeciągły[**unclear c] śmiech szyderstwa,
+Zawróciłem na drogę. Przeciągły śmiech szyderstwa,
 urągliwy, kłujący szedł mi w tropy i długo
 jeszcze, długo towarzyszył zjadliwym chichotem.
 
@@ -218,7 +218,7 @@ drzewa. Pociemniało gwałtownie: ponury zmierzch
 jesienny kroczył szybko z przesłonionem potworną
 dłonią licem po rozszlochanym świecie. Tylko tam
 daleko, tuż przy poziomie krwawił się zachód; ale
-i ten zakryły mi wrychle zsiniałe kotary chmur,[**unclear ,]
+i ten zakryły mi wrychle zsiniałe kotary chmur,
 zesuwając się szczelnie nad purpurowem misteryum
 słońca.
 
@@ -237,12 +237,12 @@ dogodnego miejsca na nocleg.
 
 Narazie był przynajmniej dach nad głową --
 ale co za dach!: raczej przetak; znać długoletnie
-ulewy[**unclear u] nadgryzły gonty i tarcice, które podziurawione
+ulewy nadgryzły gonty i tarcice, które podziurawione
 w rozpaczliwy sposób przepuszczały deszczówkę.
 Na ziemi wałęsały się miejscami odmioty
 cegły, szczerzyły potłuczone czerepy, szczerbiły porowate
 żużle, odłamki szkła i pordzewiałego żelaziwa.
-W środku niewielka hałda[**unclear h] pryszczyła się rudym
+W środku niewielka hałda pryszczyła się rudym
 tonem cegły zmieszanej z innymi odpadkami.
 
 Postanowiłem urządzić się możliwie najwygodniej.
@@ -253,22 +253,22 @@ wyrwałem z dziurawej posowy, padając roz-*
 *trzaskiwały się w drobne szczapy. Miałem tedy
 wyborne paliwo, przyczem zbyteczną okazała się
 hubka. Należało jeszcze zabezpieczyć się od coraz
-natarczywszej wichury. Tu i owdzie[**maybe ówdzie] pozostałe odpryski
+natarczywszej wichury. Tu i owdzie pozostałe odpryski
 cegieł i opodal nieznaną ręką nagromadzone
 kamienie posłużyły mi na wybudowanie ścianki
 ochronnej, opartej o jeden ze słupców, które podpierały
-szatro. Podobnież[**unclear o] udało mi się utworzyć
+szatro. Podobnież udało mi się utworzyć
 małe palenisko, czy raczej dół wyłożony po krajach
 cegłą i szutrem. Przy pomocy nieodstępnego krzemienia
-zarzegłem ognisko. Zakryty[**unlcear r] jako tako przed
-srożącą się szarugą.[**typo for ,] skurczony, zasuty w łachmany
+zarzegłem ognisko. Zakryty jako tako przed
+srożącą się szarugą, skurczony, zasuty w łachmany
 grzałem się. Gdzieś odgrzebana lecha suchego chleba
-złożyła się na wieczerzę. Żując z trudnością[**missing ,] wpiłem
+złożyła się na wieczerzę. Żując z trudnością wpiłem
 oczy w drgający, niespokojny płomień... Dziwne
 jak ogień umie przykuwać do siebie! Można tak
 patrzeć godzinami bez myśli, bez ruchu. Podobny
 czar wywiera woda w żywiołowej postaci wielkich
-mas. Pamiętam[**unclear a] jak raz siedząc nad większą rzeką
+mas. Pamiętam jak raz siedząc nad większą rzeką
 nie mogłem oczu oderwać od cicho kocących się
 fal; wzrok wlókł się po nurtach i płynął razem.
 Uczuwałem gwałtowną chęć oddania się wodzie:
@@ -287,15 +287,15 @@ mrzały.... Odczuwałem je lecz nie zmysłami -- te
 spały snem żelaznym, nieprzepartym -- odczuwa-*
 -----File: 013.png---\yakuzza\jerzyrek\mcbax\RCEberwein\cmspence\----------
 *łem całym sobą, najdrobniejszymi włóknami nerwów,
-ich splotem[**unclear p] tysiącwęzłowym rozpiętym w ciele.
+ich splotem tysiącwęzłowym rozpiętym w ciele.
 
 Widziałem rzeczy dziwne, niepojęte: najskrytsze
 drgnienia świata nie uszły mej śledczej uwagi,
 przepotężna jasność rozświetlała przedemną kryjówki
 natury, ostępy niezbadane, do których może
 nigdy współbracia moi nie dotrą; widziałem z bystrością
-ostrowidza fatalny łańcuch przyczyn wstecz:[** ;?]
-ostrożnie, z nieubłaganą wynikliwością[**maybe wnikliwością] wyciągałem[**unclear ł]
+ostrowidza fatalny łańcuch przyczyn wstecz;
+ostrożnie, z nieubłaganą wynikliwością wyciągałem
 wnioski potworne a jednak -- niestety! -- prawdziwe!
 
 I rozumiałem! ja -- człowiek -- wiedziałem!
@@ -307,7 +307,7 @@ i jestem i będę!...
 
 A ciche fale biły wciąż miękko o zachwycone
 ciało, drgały, krzyżowały się, przenikały... A zmysły
-spały, a rozum -- he! he! intellekt[**unclear e], ta mądra
+spały, a rozum -- he! he! intellekt, ta mądra
 bestya -- drzemał spity, bezsilny kat!...
 
 W takich to chwilach wychylało też ohydną
@@ -334,7 +334,7 @@ kosmate łapy sięgały drapieżnie po coś, wyciągały
 chwytne kłykcie, coraz chudsze, nerwowe -- dalej...
 wyżej.... cofnęły się. Jakiś stwór poruszał sennie
 potwornych rozmiarów łbem tam i napowrót, nudnie,
-jednostajnie[**unclear s, i].... przeszedł w rodzaj koła rozpędowego:
+jednostajnie.... przeszedł w rodzaj koła rozpędowego:
 szalony obieg raz! drugi!... pękły dzwona....
 Wiotkie, wrażliwe macki rozstawiły zdradliwą
 siatkę cieniów: czyhają... jest! Zamroczyło coś,
@@ -345,7 +345,7 @@ ust korale... dziecię u łona... Co?!... Boże mój!..
 w topiel!... oboje!!...
 
 Oprzytomniałem. -- Tuż nademną pochylony
-mężczyzna[**unclear first z] wpatrywał się uporczywie w rysy mej
+mężczyzna wpatrywał się uporczywie w rysy mej
 twarzy; niespokojne oczy nieznajomego wrzynały
 się we mnie z niepojętą natarczywością.
 
@@ -355,24 +355,24 @@ płaszcz gumowy -- zdaje mi się, że przerwałem
 sen.
 
 Narazie nie zdołałem skupić należycie myśli
-na odpowiedź[**unclear e].
+na odpowiedź.
 
 -- Widzi Pan -- ciągnął niezrażony tem dalej -- urządziłem
 się dyablo niepraktycznie. Zawezwany
-do komisyi sądowej jako[**unclear j] rzeczoznawca
+do komisyi sądowej jako rzeczoznawca
 wyjechałem razem z wszystkimi na miejsce zbrodni.
 Uważa Pan -- pobito śmiertelnie chłopa zwyczajnie
 w karczmie przy niedzieli. Ot bydło! Czaszka
 przez pół na potylicy... kołem z płotu.
 
-Otóż po załatwieniu tej[**unclear j] arcymiłej czynności,
+Otóż po załatwieniu tej arcymiłej czynności,
 zostało mi trochę czasu przed powrotem. Podobno
 -----File: 015.png---\Stanilewicz\czupirek\mcbax\RCEberwein\cmspence\------
 sędzia miał przeprowadzić pewne formalności ze
 sołtysem. Poszedłem tedy w las. Znasz Pan te strony
 -- piękne bory, nieprawdaż? No i nie uwierzy
 mi Pan, zabłąkałem się najzupełniej, bez wyjścia.
-Tutejsi ludzie mówią, że w lasach oman[**omam lub omen?/P2 votes for "omam"] chwyta...
+Tutejsi ludzie mówią, że w lasach oman chwyta...
 cha, cha! To też i mnie licho jakieś zapędziło
 w głębie. Było już ciemno i deszcz siekł porządnie,
 gdy wkońcu wydostałem się krętymi manowcami
@@ -386,7 +386,7 @@ bardzo -- odparłem z widocznym wysiłkiem. --
 Zresztą przyznam się Panu doktorze, że Go tu oczekiwałem.
 
 Spojrzał mi w oczy z wyrazem ździwienia. Po
-chwili uśmiechając się pobłażłiwie[** pobłażliwie?] zauważył:
+chwili uśmiechając się pobłażłiwie zauważył:
 
 -- Zdaje mi się nie możesz Pan opanować
 resztek snu, w jakim go zastałem. Swoją drogą
@@ -404,9 +404,9 @@ złudzenie! Ja wcale nie spałem...
 
 -- To dziwne... chociaż... być może. Oczu nie
 zamknąłeś Pan przez cały czas ani na chwilę. Tylko
-że wyglądało to tak, jakbyś mimo.[** ,?] to nie spostrzegał
+że wyglądało to tak, jakbyś mimo to nie spostrzegał
 mojej obecności: był to szklany, tępy wyraz.
-Powiedz mi Pan -- nie doznajesz czasami.[**..]
+Powiedz mi Pan -- nie doznajesz czasami..
 -----File: 016.png---\jerzyrek\czupirek\mcbax\RCEberwein\cmspence\---------
 
 -- Doktorze! zostawmy to, proszę. Lepiej
@@ -418,10 +418,10 @@ zdejmując wierzchnią zarzutkę, którą następnie
 rozpostarł między łatami pod okapem. Dopiero
 teraz ujrzałem dokładnie młodego mężczyznę o twarzy
 pięknej, okolonej bujnym, ciemnym zarostem.
-Czarne, błyszczące wewnętzną[**wewnętrzną] energią oko zdradzało
+Czarne, błyszczące wewnętrzną energią oko zdradzało
 odwagę i stanowczość. Wytworne, lecz bez
 wyszukania ubranie uwydatniało silne i zgrabne
-kształty[**.] Cała postać oddychała jędrną[**, (?)] niespożytą
+kształty. Cała postać oddychała jędrną, niespożytą
 siłą młodości i szczęścia. Pogoda wyniosłego czoła
 i młody, zdrowy uśmiech przewijający się chwilami
 po wąskich ustach świadczyły o tem wymownie.
@@ -442,7 +442,7 @@ Doktor tymczasem przytoczył do ogniska
 krąglak i usiadł naprzeciw rozgrzewając zsiniałe
 od chłodu ręce.
 
-Chwilę zaległo przykre milczenie[**, (?)] tylko ogień
+Chwilę zaległo przykre milczenie tylko ogień
 skwierczał zgryźliwie, szepleniły szumowiny drew...
 W tem ciszę rozdarł przenikliwy głos puhacza,
 przewlekły, zawodzącą skargą...
@@ -454,7 +454,7 @@ w szalonym pędzie i zapadło w pomrokach duszy.
 -- Doktorze -- podjąłem ochryple, nieswojo --
 Pan wierzysz w przeczucia?
 
-Zadrżał. Ciemne oko utkwiło niespokojnie,[**zbędny ','/P2: ',' = speck]
+Zadrżał. Ciemne oko utkwiło niespokojnie
 w mojem:
 
 -- Przeczucie?... Nie wiem... doprawdy sam
@@ -497,12 +497,12 @@ nam dopomóż Bóg!...
 
 O jak ty ją kochać musisz... błękitnych oczu
 toń, miękko-płowych włosów zwój... O jakie ty
-spijasz czary ze szkarłatnych warg... rozszalałe tulisz[** tułisz?]
+spijasz czary ze szkarłatnych warg... rozszalałe tulisz
 łono do spalonych ust... i dziecię z nią masz...
 Ale drżyj przed wielką wodą, co drzemie ustała:
 taka rudą zaciągnięta rdzą... Bo czasem zły urok
 w niej uśpiony lubi zwabić... w dół... a rankiem
-pod jutrznianą poświatę[**typo: poświatą (?)] bieleje opity wodą, wzdęty
+pod jutrznianą poświatę bieleje opity wodą, wzdęty
 trup... perłowych zębów połysk lśni pośród nadgniłych
 warg... A może i nic nie wymiecie staw...
 tylko w białe, srebrem tkane noce cichy na topieli
@@ -549,10 +549,10 @@ noc:... i skowyt serce zdjął...
 Na świecie weselił się skąpany w czerwieni
 zachodzącego słońca pogodny, jesienny odwieczerz.
 Krwawe pasma światła wytryskiwały z pod ziemi
-pławiącej się na krańcach nieboskłonu[**unclear k], by rozkociwszy
-się purpurową falą po zadumanych lewadach,[**unclear ,]
+pławiącej się na krańcach nieboskłonu, by rozkociwszy
+się purpurową falą po zadumanych lewadach,
 łęgach, sianożęciach, bluznąć posoką w przycichłe
-lasy. Ze świeżo skoszonych otawisk wynikały[**unclear k]
+lasy. Ze świeżo skoszonych otawisk wynikały
 wonie mocne a słodkie, z późnych potrawów szedł
 smętny głos ligawki. Tu i tam turlikały dzwonki
 niewidzialnych cielic. Po łąkach rozsiadły się stogi
@@ -565,12 +565,12 @@ zjazd pod ziemię zatrzymał: słońce jakby zawahało,
 zachwiało -- wszystkie swe twórcze siły skupiło
 i obrzucając żałobny świat szkarłatnym przepychem
 rozbłysło ostatkiem mocy ciepłej, błogosławionej.
-Była to uczta[**unclear z] przedśmiertna, szalona orgia
+Była to uczta przedśmiertna, szalona orgia
 zamierającego życia, wysiłek wspaniały, królewski.
-Objęło[**unclear j] gorącem spojrzeniem czerniejące zwartym
+Objęło gorącem spojrzeniem czerniejące zwartym
 wałem na wschodzie bory, wilgotne rosą wieczorną
 pola, pastwiska, zapaliło ognie w wieżyczce kościółka,
-zagrało smutno na twarzy włóczęgi-obłąkańća[**typo: obłąkańca]..
+zagrało smutno na twarzy włóczęgi-obłąkańca..
 i poczęło dokonywać drogi..
 
 Byłem pod nieznaną mi wioską. Bezwładnie,
@@ -582,12 +582,12 @@ pod krzyżem wiła się szarym skrętem samotna
 wygonu. Wstąpiłem na koleinę z niewytłómaczoną
 ciekawością, dokąd też zawiedzie. Żelazna zaduma
 zagnieździła mi się w duszy, że nie byłem zdolny
-patrzeć na cudny wieczór, tylko[**unclear y] z uparcie wbitym
+patrzeć na cudny wieczór, tylko z uparcie wbitym
 wzrokiem w szarzejącą u mych stóp drożynę dążyłem
 przed siebie bez celu. A ścieżyna to biegła przed
 się prosto, to kluczyła na prawo, na lewo, w zygzak,
 znów wyprężała się pod linię i bielała, bielała
-bez końca[**.] Kiedy nagle podniosłem głowę, miałem
+bez końca. Kiedy nagle podniosłem głowę, miałem
 o parę kroków przed sobą parkan jakiegoś wielkiego
 ogrodu, czy parku.
 
@@ -597,7 +597,7 @@ go po drodze i teraz zaszedłem z tyłu.
 Domysł mój sprawdził się, gdy po chwili spostrzegłem
 w parkanie małą furtkę. Była lekko odchylona.
 Pchany niepojętą siłą otworzyłem ją na
-oścież: stare rdzą przeżarte zawiasy zgrzytnęły sucho[**,]
+oścież: stare rdzą przeżarte zawiasy zgrzytnęły sucho
 zgryźliwie... Wszedłem do wnętrza. Uczucia,
 które wtedy wstrząsnęło posadami mej duszy, nie
 zapomnę nigdy. Rzecz szczególna: miejsce to wydało
@@ -605,12 +605,12 @@ mi się znajome, nawet bardzo dobrze, choć
 byłbym przysiągł, że je pierwszy raz w życiu
 widzę. A przecież.. Było w tem wszystkiem
 coś więcej: oto po prostu czułem się u siebie
-t. j.[**unclear j] właściwie na miejscu: znalazłem. Ale co,
+t. j. właściwie na miejscu: znalazłem. Ale co,
 z tego sam sobie sprawy zdać nie umiałem.
 Równocześnie gwałtowny niepokój, który mnie już
-od miesiąca trawił, ustał nagle. Natomiast[**unclear i] ogarnęły
+od miesiąca trawił, ustał nagle. Natomiast ogarnęły
 mnie pewnego rodzaju chłód i zawziętość. Czasem
-tylko na mgnienie łyskawicy[**maybe błyskawicy/P2: I think "łyskawicy" could be ok] przebijał skrzepłą skorupę
+tylko na mgnienie łyskawicy przebijał skrzepłą skorupę
 strach, że sztywniałem mrozem ścięty. Lecz
 -----File: 021.png---\yakuzza\czupirek\mcbax\RCEberwein\cmspence\----------
 i to wkrótce mijało i byłem znowu przeraźliwie
@@ -623,26 +623,26 @@ promieni zachodu przeszywając gęstwę drzew spływały
 na ciche wody; od tych ogni zajęły się grzbiety
 fal i migotały skrwawionemi grzywami. Czasem ryba
 prysła złotą łuską rozbryzgując wodę w świetlane
-krople: powstawała stubarwna otęcz[**maybe tęcza/P2: "otęcz" sounds weird, but it matches with the text], igrała w słońcu
+krople: powstawała stubarwna otęcz, igrała w słońcu
 przedziwnie i promienną kaskadą wracała w macierzyste
 łoże. Rozkoszne dreszcze marszczyły gładką
 powierzchnię i biegły wątłemi bruzdami do brzegów,
 skąd odbite, złamane rozsnuwały drgające otocze
 pian; te padały białymi błamami na nadbrzeżną
-murawę lub śliniły dłoniate[**maybe dłoniaste] liści[**liście] grzybieni. Wieczorny
+murawę lub śliniły dłoniate liści grzybieni. Wieczorny
 wiatr przeginał z wdzięczną lubieżą szypuły
 rokiciny, która chybocząc się rozłożystym ruchem
 odsłaniała las bielejących spodem łodyg toczonych,
 bez skazy i węzłów. Od szuwarów szedł silny
 obrzask surowizny i mącił zmysły. Zasuta w sity
 łódka kołysała się niby tanecznica na wpół pleśnią
-obciągniętych burtach[**.] Za mocniejszym podrywem
+obciągniętych burtach. Za mocniejszym podrywem
 fal miotała się i biła z szelestem o badyle usiłując
 wydobyć się na środek jeziorka; lecz wtedy łańcuch
 przytwierdzony do steru a drugim końcem do
 kółka u brzegu rozprężał zardzewiałe ogniwa, by
 po chwili, gdy wiatr się przyczaił, opaść z
-brzękiem na dno[**unclear n] korabia. Gdzieś zapomniane
+brzękiem na dno korabia. Gdzieś zapomniane
 wiosło wystawało z boku i wśród podskoków łodzi
 prało rozstępującą się wodę na spienioną miazgę.
 
@@ -653,7 +653,7 @@ Staw obiegał szeroki, piaskiem wysypany deptak
 a dalej w następującym zwolna cieniu nurzały
 -----File: 022.png---\jerzyrek\yakuzza\mcbax\RCEberwein\cmspence\----------
 się krępe jawory, lipy miodowym tchem wonne,
-leciwe, osędzieliną mchu otulone dęby-brodacze;[**unclear r] pomiędzy
+leciwe, osędzieliną mchu otulone dęby-brodacze; pomiędzy
 krzami skrywała wstydliwie biały srom
 brzoza.
 
@@ -672,7 +672,7 @@ czy z koronkowej chusteczki zapomnianej na stole.
 Usiadłem znużony włóczęgą. Teraz dopiero
 zwróciła mą uwagą ukryta pod stosem nitek jedwabin
 książeczka. Otwieram:... pamiętnik, pismo drobne,
-kobiece, ostatnia kartka świeżo[**unclear w] zapełniona...
+kobiece, ostatnia kartka świeżo zapełniona...
 
 -- ...mój Boże! jaki też ten Stach kochany,
 lepszy nawet niż przypuszczałam niegdyś... Jutro
@@ -697,21 +697,21 @@ co to takiego morze.
 razy taka jak nasz stawek.
 
 Klasnęła z radości w rączęta i odtąd już całemi
-dniami szczebiotała[**unclear t] o morzu. Bo muszę tu
+dniami szczebiotała o morzu. Bo muszę tu
 wspomnieć, że moja córeczka bardzo lubi nasz staw
 i łódkowanie. Nieraz Stach w chwilach wolnych, gdy
 go już przestaną nachodzić ci nieznośni chorzy siada
-z nami na łódkę i wiosłuje: mała z wielką uwagą[**missing "-"]
+z nami na łódkę i wiosłuje: mała z wielką uwagą
 przypatruje się ruchom wiosła, lub też poważnie
-zadaje najdziwaczniejsze[**missing "n"] pytania,...[**....]
+zadaje najdziwaczniejsze pytania,...
 
-Proszę mi wybaczyć bezładność, lecz te przygotewania[**przygotowania]
+Proszę mi wybaczyć bezładność, lecz te przygotewania
 blisko od miesiąca i gorączka spodziewanych
 wrażeń rozprzęgły mi do reszty panowanie
 nad nerwami. I tak może będę musiała przerwać
-pisanie na czas dłuzszy[** dłuższy?]. Prawdopodobnie nie zechce
+pisanie na czas dłuzszy. Prawdopodobnie nie zechce
 mi się zbierać myśli na riwierze, jak mówią "jasny
-brzeg" rozluźnia energię, sprwadzając[**typo: sprowadzając] omdlałą bezwładność.
+brzeg" rozluźnia energię, sprowadzając omdlałą bezwładność.
 Mój Boże! czemużbym się jej nie miała
 oddać -- to tak słodko omdlewać.... w ramionach
 Stacha.......
@@ -726,7 +726,7 @@ słońce zważyło się nad poziomem. Spiesznie posunąłem
 się deptakiem.
 
 Z tej strony grunt wchodził w staw ostrym
-dzióbem[**dziobem] tworząc trójkątną wystawę. Przylądek był
+dzióbem tworząc trójkątną wystawę. Przylądek był
 skalisty, obrosły miejscami mchem i pleśnią. Z płaskiego
 szczytu na jednakim poziomie z resztą ogrodu
 i chodnikiem spadał modrymi warkoczami powój,
@@ -736,38 +736,38 @@ przez szczelinę krzak tarniny; dziki urok krzewu
 -----File: 024.png---\jerzyrek\yakuzza\mcbax\RCEberwein\cmspence\----------
 występował przedziwnie na szarem tle opoki. Cały
 przylądek robił wrażenie wypatrzalni. Nad samym
-krajem[**unclear j] zapewne dla wygodnego oparcia się umieszczono
+krajem zapewne dla wygodnego oparcia się umieszczono
 żelazne balaski; były już stare i zjedzone
 rdzą, napozór jednak trzymały silnie. Wstąpiwszy
 tu oparłem się o nie plecyma, by ogarnąć wzrokiem
-pyszny widok dalszej partyi[**unclear t] ogrodowej. Nagle
+pyszny widok dalszej partyi ogrodowej. Nagle
 uczułem zdradliwe trzeszczenie prętów; przestałem
 się opierać i obejrzałem je: cztery śrubki rozluźniły
 się zupełnie i groziły wymknięciem się prętów
 ze spojeń. Nie zakręcając gwintów założyłem
-je wolno,[**unclear ,] poczem skierowałem się w aleę[**typo: aleję] topól. U
+je wolno, poczem skierowałem się w aleę topól. U
 wylotu dopiero błyszczały pokrwawiem zachodu
-okna rozkosznej willi. Ostrożnie[**unclear e] skradając się dotarłem
+okna rozkosznej willi. Ostrożnie skradając się dotarłem
 pod domostwo zakryty krzewami przekwitłego
 bzu.
 
 I wtedy spotkałem się twarzą w twarz ze szczęściem
 ludzkiem, oglądałem je w jego dumnej krasie,
-promienne,[**unclear ,] widziałem je w całej bezwzględności,
-darzące szczodrą dłonią swych wybranych, zuchwałe.[**. -> ,]
+promienne, widziałem je w całej bezwzględności,
+darzące szczodrą dłonią swych wybranych, zuchwałe,
 zwycięskie, bezczelne...
 
-Na białym,[**unclear y] kamiennym tarasie willi, zbiegającym[**missing "-"]
+Na białym, kamiennym tarasie willi, zbiegającym
 w kilku stopniach ku ogrodowi widniało
-dwoje ludzi[**should be ','] dwoje skończenie pięknych typów. Kobieta
-była jasnowłosa.[**. -> ,] o szafirowych, mokrych
+dwoje ludzi, dwoje skończenie pięknych typów. Kobieta
+była jasnowłosa, o szafirowych, mokrych
 oczach; rysy Madonny subtelne, pełne wyrafinowanego
 piękna świadczyły, że na nie musiały się złożyć
 całe wieki kultury i doboru. Krągła pierś
 wzdymała się niewymowną rozkoszą, oczy oszalałe
 miłością tonęły w źrenicach nachylonego nad nią
 mężczyzny.... A na ten szał miłosnego zapamiętania
-lał[**unclear ł] złociste strugi[**unclear t] konający dzień...
+lał złociste strugi konający dzień...
 
 I tak stali wśród orgii światła i żaru piękni,
 szczęśliwi, jak bogi....
@@ -781,7 +781,7 @@ doktora.....
 Dziecięcy śmiech zadzwonił z wnętrza i zaraz
 potem ukazała się w oszklonych drzwiach werandy
 śliczna, kilkoletnia dziewczynka prowadzona za
-rękę przez sędziwego sługę.[**missing .] Mała podbiegła tuląc
+rękę przez sędziwego sługę. Mała podbiegła tuląc
 się do rodziców, podczas gdy służący przystąpiwszy
 do pana domu zamienił z nim parę słów. Doktór
 słuchał niechętnie i z widocznem roztargnieniem,
@@ -793,21 +793,21 @@ Pani jakiś czas jeszcze wahała się z przymkniętemi
 oczyma w wygodnym bujaku jakby przeżywając
 powtórnie rozkosz niedawnych pieszczot, następnie
 ująwszy rączkę córeczki poczęła zstępować
-z tarasu[**unclear r] wgłąb ogrodu. Na ostatnim stopniu niby
+z tarasu wgłąb ogrodu. Na ostatnim stopniu niby
 zastanowiła się; trwało to przecież tylko chwilkę i
 wkrótce posuwały się matka i córka aleą topolową
 pogodne i piękne ciszą wieczora. Jakaś nadziemska,
 anielska błogość jaśniała na twarzy kobiety rozkwitłej
-pełnią młodzieńczej[**unclear c] urody, na licu dziecka,
+pełnią młodzieńczej urody, na licu dziecka,
 co napawało urokiem przyszłego czaru. -- Przeszły
 wzdłuż aleę i wstąpiły na deptak. Co parę kroków
-przystawała matka pozwolając[**typo: pozwalając] małej zrywać
-kwiaty bujnie rozrzucone na przepysznych[**unclear y] klombach.
+przystawała matka pozwolając małej zrywać
+kwiaty bujnie rozrzucone na przepysznych klombach.
 Sama uszczknęła białą lilię i wpięła we włosy.
 Tak doszły do przylądka: matka chciała iść dalej
 nie zmieniając kierunku, lecz dziewczynka upierała
-się ciągnąc za rękę ku skalistej[**unclear a] wystawie. Ulegając[**missing "-"
-kaprysowi dziecka zbliżyła[**missing ż] się ku balaskom...
+się ciągnąc za rękę ku skalistej wystawie. Ulegając
+kaprysowi dziecka zbliżyła się ku balaskom...
 
 Czułem, jak krew uderzyła mi legionem wściekłych
 młotów i kuła w skroniach. Stały tuż przy
