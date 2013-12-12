@@ -110,9 +110,9 @@
  'Pg109' => {'offset' => '3650.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg110' => {'offset' => '3693.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
  'Pg111' => {'offset' => '3744.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg112' => {'offset' => '3791.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg113' => {'offset' => '3840.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
- 'Pg114' => {'offset' => '3857.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg112' => {'offset' => '3790.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg113' => {'offset' => '3839.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
+ 'Pg114' => {'offset' => '3856.0', 'label' => '', 'style' => '', 'action' => '', 'base' => ''},
 );
 
 $::proofers{'001'}[1] = 'yakuzza';
@@ -695,15 +695,16 @@ $::operationshash{'Spellcheck'}='2013-12-09 19:20';
 $::operationshash{'Found no more orphaned <>'}='2013-12-09 19:04';
 $::operationshash{'Found no more orphaned ()'}='2013-12-09 19:01';
 $::operationshash{'Found no more orphaned /# #/'}='2013-12-09 19:04';
-$::operationshash{'Open /data/dp/pp/zwyjatkow_wpomrokachwiary/zwyjatkow-src.txt'}='2013-12-10 22:32';
+$::operationshash{'Open /data/dp/pp/zwyjatkow_wpomrokachwiary/zwyjatkow-src.txt'}='2013-12-12 22:10';
 $::operationshash{'Found no more orphaned []'}='2013-12-09 19:03';
+$::operationshash{'Found no more proofer comments'}='2013-12-12 21:52';
 $::operationshash{'Found no more orphaned ´ ª'}='2013-12-09 19:04';
 $::operationshash{'Found no more orphaned {}'}='2013-12-09 19:03';
 $::operationshash{'Found no more orphaned ª ´'}='2013-12-09 19:04';
 $::operationshash{'Found no more orphaned ‚Äú ‚Äù'}='2013-12-09 19:05';
 $::operationshash{'Found no more /*..*/ blocks'}='2013-12-09 18:58';
 
-$::bookmarks[0] = '2601.7';
+$::bookmarks[0] = '1.0';
 
 $::pngspath = '/data/dp/pp/zwyjatkow_wpomrokachwiary/pngs/';
 
